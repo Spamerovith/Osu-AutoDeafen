@@ -2,7 +2,17 @@
 
 **Osu AutoDeafen** automatically presses a configurable deafen/mute key when you reach a selected percentage in an osu! beatmap
 
-It is inspired by the AutoDeafen concept for Geometry Dash and adapted specifically for osu!
+## Installation
+
+1. Go to the **Releases** section of this GitHub repository
+2. Download the latest `OsuAutoDeafen-windows-x64.zip`
+3. Extract the ZIP archive to any folder
+4. Open the extracted `OsuAutoDeafen-windows-x64` folder
+5. Run `OsuAutoDeafen.exe`
+6. Configure the activation percentage and your deafen/mute hotkey
+7. Start osu! and play normally
+
+**Important:** Do not run `OsuAutoDeafen.exe` directly from inside the ZIP archive - extract the archive first
 
 ## Features
 
@@ -11,15 +21,6 @@ It is inspired by the AutoDeafen concept for Geometry Dash and adapted specifica
 - Configurable hotkey
 - Works automatically while playing osu!
 - Simple setup - no installation required
-
-## Installation
-
-1. Go to the **Releases** section of this GitHub repository
-2. Download the latest `OsuAutoDeafen-windows-x64` release
-3. Open the downloaded `OsuAutoDeafen-windows-x64` folder
-4. Run `OsuAutoDeafen.exe`
-5. Configure the activation percentage and your deafen/mute hotkey
-6. Start osu! and play normally
 
 ## How it works
 
@@ -61,7 +62,17 @@ If you find a bug, please report it to me so I can fix it
 
 **Osu AutoDeafen** автоматически нажимает заданную клавишу дефа/мута, когда ты достигаешь выбранного процента карты в osu!
 
-Программа основана на идее AutoDeafen для Geometry Dash, но адаптирована специально для osu!
+## Установка
+
+1. Открой раздел **Releases** этого GitHub-репозитория
+2. Скачай последнюю версию `OsuAutoDeafen-windows-x64.zip`
+3. Распакуй ZIP-архив в любую папку
+4. Открой распакованную папку `OsuAutoDeafen-windows-x64`
+5. Запусти `OsuAutoDeafen.exe`
+6. Настрой процент срабатывания и клавишу дефа/мута
+7. Запусти osu! и играй как обычно
+
+**Важно:** Не запускай `OsuAutoDeafen.exe` прямо из ZIP-архива - сначала распакуй его
 
 ## Возможности
 
@@ -69,16 +80,7 @@ If you find a bug, please report it to me so I can fix it
 - Автоматическое нажатие заданной клавиши дефа/мута
 - Настраиваемый хоткей
 - Автоматическая работа во время игры в osu!
-- Установка не требуется
-
-## Установка
-
-1. Открой раздел **Releases** этого GitHub-репозитория
-2. Скачай последнюю версию `OsuAutoDeafen-windows-x64`
-3. Открой скачанную папку `OsuAutoDeafen-windows-x64`
-4. Запусти `OsuAutoDeafen.exe`
-5. Настрой процент срабатывания и клавишу дефа/мута
-6. Запусти osu! и играй как обычно
+- Установка программы не требуется
 
 ## Как это работает
 
